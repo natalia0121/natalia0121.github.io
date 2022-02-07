@@ -1,0 +1,101 @@
+h1 {
+
+    margin:0px;
+    padding:0px;
+    border:0px; 
+    position: relative;
+    left: 540px;
+    top: 120px ;
+
+} 
+
+
+
+
+#SelfProtrait{
+    position: relative;
+    left: 500px;
+    top: 130px
+
+}
+
+#div1 {
+    position: relative;
+    left: 500px;
+    top: 140px;
+    text-align: justify;
+    width: 40%;
+    font-size: 19px;
+
+}
+
+#div2 {
+    position: relative;
+    left: 500px;
+    top: 140px;
+    text-align: justify;
+    width: 40%;
+
+}
+
+
+
+#w1 {
+    position: relative;
+    left:200px;
+    top: 50px;
+}
+
+
+
+#w2 {
+    position: relative;
+    left: 300px;
+    top: 50px;
+
+}
+
+#div {
+    position: relative;
+    left: 200px;
+    top: 60px;
+    text-align: justify;
+    font-size: 30px;
+    
+
+    
+
+}
+#div4 {
+    position: relative;
+    left: 200px;
+    top: 70px;
+    text-align: justify;
+    width: 40%;
+    font-size: 20px;
+    
+}
+#div3 {
+    position: relative;
+    left: 850px;
+    top: 20px;
+    text-align: justify;
+    font-size: 30px;
+
+}
+
+#div5 {
+    position: relative;
+    left: 850px;
+    top: 10px;
+    text-align: justify;
+    width: 40%;
+    font-size: 20px;
+}
+
+
+
+
+body {background-color: rgb(121, 54, 74);}
+
+
