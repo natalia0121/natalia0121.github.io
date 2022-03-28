@@ -16,8 +16,8 @@ function setup() {
   noStroke();
   fill(0, 0, 0, 30);
   cnv = createCanvas(600, 700);
- gif_createImg.parent("gifcontainer");
   cnv.parent("container");
+  gif_createImg.parent("sp");
   
 }
 
