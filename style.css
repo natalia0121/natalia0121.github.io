@@ -110,7 +110,7 @@ h1 {
 }
 #gifcontainer{
     position: relative;
-    left: 10px;
+    left: -100px;
     top: 30px;
 }
 
