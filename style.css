@@ -54,7 +54,11 @@ h1 {
     top: 50px;
 
 }
-
+#w3{
+    position: relative;
+    left: 400px;
+    top: 50px;  
+}
 #div {
     position: relative;
     left: 200px;
@@ -92,7 +96,23 @@ h1 {
     width: 40%;
     font-size: 20px;
 }
-
+#div6{
+    position: relative;
+    left: 1000px;
+    top: 20px;
+    text-align: justify;
+    font-size: 30px;
+}
+#container{
+    position: relative;
+    left: 400px;
+    top: 70px;
+}
+#gifcontainer{
+    position: relative;
+    left: 400px;
+    top: 70px;
+}
 
 
 
